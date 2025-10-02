@@ -26,6 +26,9 @@
 
 ### Ответ:
 
+1. Скачал Metasploitable и установил на VMware Workstation.
+
+
 
 ### Задание 2
 
