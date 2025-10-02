@@ -28,6 +28,8 @@
 
 1. Скачал Metasploitable и установил на VMware Workstation.
 
+![1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-06/blob/main/1.png)
+
 
 
 ### Задание 2
