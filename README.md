@@ -30,8 +30,11 @@
 
 ![1](https://github.com/Ivan-Shkutov/sdb-homeworks-13-01/blob/main/1.png)
 
+2. Проверка доступности машины Metasploitable по сети
 
+![2](https://github.com/Ivan-Shkutov/sdb-homeworks-13-01/blob/main/2.png)
 
+   
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
